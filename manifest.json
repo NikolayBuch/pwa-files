@@ -1,0 +1,16 @@
+{
+  "short_name": "Мой Кабинет",
+  "name": "Личный кабинет компании",
+  "icons": [
+    {
+      "src": "/pwa-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/members/login",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
